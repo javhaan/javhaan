@@ -1,6 +1,6 @@
 # About Me
 
-I was born and raised on the island of [Saint Lucia](https://en.wikipedia.org/wiki/Saint_Lucia). From an early age, I've had a strong interest in technology, exploring how things work and the unique features of various operating systems.
+I was born and raised on the island of [Saint Lucia](https://en.wikipedia.org/wiki/Saint_Lucia) 🇱🇨. From an early age, I've had a strong interest in technology, exploring how things work and the unique features of various operating systems.
 
 I am the Operations Associate at [Elizabeth Consulting International Inc.](https://www.ec-intl.com), where I collaborate with other team members to support the Lead Research and Engineering Scientist, [Dr Cheikh Mbengue](https://github.com/cmbengue-ec-intl), in advancing software development projects at [Climate Modeling Alliance](https://clima.caltech.edu/) (CliMA). Additionally, I assist the Finance Manager, Mingee Lucien, with various accounting and finance tasks.
 
