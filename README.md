@@ -6,7 +6,7 @@ I am the Operations Associate at [Elizabeth Consulting International Inc.](https
 
 🔭 **Currently Working On:**
 
-- Contribute to the development of the CliMA ESM ☁️
+- Contribute to the development of CliDApp (CliMA) ☁️
 - A web application to deliver design condition information to planners and engineers 👨‍💻
 
 🌱 **Learning:**
